@@ -13,3 +13,6 @@ To use:
     ln -s ~/.vim/vimrc ~/.vimrc
     ln -s ~/.vim/gvimrc ~/.gvimrc
 
+For temp files:
+
+    mkdir -p ~/tmp/.vim/{backup,swap,undo}
