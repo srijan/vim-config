@@ -127,9 +127,8 @@ inoremap <C-Space> <C-X><C-O>
 " disable warnings from NERDCommenter:
 let g:NERDShutUp = 1
 
-" Make sure taglist doesn't change the window size
-let g:Tlist_Inc_Winwidth = 0
-nnoremap <silent> <F8> :TlistToggle<CR>
+" Toggle Tagbar
+nnoremap <silent> <F8> :TagbarToggle<CR>
 
 " language specific customizations:
 let g:python_highlight_numbers = 1
