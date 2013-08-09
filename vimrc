@@ -261,3 +261,6 @@ nmap <Leader>ff :FufCoverageFile<CR>
 nmap <Leader>fb :FufBuffer<CR>
 nmap <Leader>fl :FufLine<CR>
 nmap <Leader>fr :FufRenewCache<CR>
+
+
+let erlang_skel_header = {"author": "Srijan Choudhary","owner" : "Grey Orange Robotics"}
