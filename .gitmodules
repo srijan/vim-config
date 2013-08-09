@@ -102,3 +102,6 @@
 [submodule "bundle/tagbar"]
 	path = bundle/tagbar
 	url = git://github.com/majutsushi/tagbar.git
+[submodule "bundle/vim-web-indent"]
+	path = bundle/vim-web-indent
+	url = git://github.com/lukaszb/vim-web-indent.git
